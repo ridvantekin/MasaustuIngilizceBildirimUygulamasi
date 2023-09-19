@@ -33,7 +33,7 @@ class BildirimUygulamasi(BoxLayout):
         kelime = random.choice(self.kelimeler)
         self.ingilizce.text = f'İngilizce: {kelime["ingilizce"]}'
         self.turkce.text = f'Türkçe: {kelime["turkce"]}'
-        Clock.schedule_once(self.kapat, 7)
+        Clock.schedule_once(self.kapat, 8)
 
     def kapat(self, *args):
         self.ingilizce.text = ''
