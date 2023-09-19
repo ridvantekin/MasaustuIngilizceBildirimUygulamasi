@@ -1,0 +1,44 @@
+above,yukarıda                
+across,karşısında      
+act,hareket
+active,aktif         
+activity,etkinlik                       
+add,eklemek                       
+afraid,korkmuş                       
+after,sonra                          
+again,tekrar
+age,yaş                                                           
+agree,anlaşmak                                        
+aim,hedef            
+air,hava                       
+all,tüm                        
+alone,yalnız                   
+along,boyunca                   
+already,zaten                     
+always,her zaman                  
+amount,miktar                    
+and,ve                         
+angry,kızgın                   
+another,başka                       
+answer,cevap                      
+any,herhangi                     
+anyone,kimse                       
+anything,herhangi br şey            
+anytime,her zaman  
+appear,görünmek                     
+apple,elma                        
+architect,mimar                        
+are,-dırlar   
+area,alan                        
+arm,kol                         
+army,ordu
+around,etrafında
+arrive,varmak                        
+art,sanat                         
+as,olarak                                                              
+ask,sormak                          
+at,içinde
+attack,saldırı                         
+aunt,teyze                          
+autumn,sonbahar                       
+away,uzakta                          
